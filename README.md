@@ -1,5 +1,5 @@
 # tessitura-viaria-osmnx
-Scripts em Python desenvolvidos para capturar, filtrar (modo drive), simplificar e converter em grafo as malhas viárias de 25 municípios do recorte litorâneo
+Scripts em Python desenvolvidos para capturar, filtrar (modo drive), simplificar e converter em grafo as malhas viárias de 25 municípios do recorte litorâneo de João Pessoa (PB) a Natal (RN). Inclui recortes exploratórios e de calibragem. 
 
 # Pipeline de Extração e Processamento de Malha Viária (OSMnx)
 
