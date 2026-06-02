@@ -19,7 +19,30 @@ O pipeline utiliza a biblioteca `OSMnx` (Boeing, 2017) para:
 Este código foi a base para a geração do dataset depositado com DOI no [Depositadados (IBICT)](https://doi.org/10.48472/deposita/MPCL1A), garantindo a total reprodutibilidade da etapa de preparação dos dados da pesquisa.
 
 ## Dependências Principais
-- Python 3.x
-- OSMnx
-- NetworkX
-- GeoPandas
+- Python ≥ 3.10
+- OSMnx ≥ 1.9.0
+- NetworkX, GeoPandas, Matplotlib, NumPy, pyproj
+
+## Instalação
+
+```bash
+git clone <url-do-repositorio>
+cd urban_network_analysis
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+pip install -r requirements.txt
+```
+
+## Uso 
+
+```bash
+# Executa todas as análises
+python main.py
+
+# Apenas redes viárias
+python main.py --network
+
+# Apenas footprints de edifícios
+python main.py --footprint
+```
