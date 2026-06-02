@@ -3,7 +3,11 @@ Scripts em Python desenvolvidos para capturar, filtrar (modo drive), simplificar
 
 # Pipeline de Extração e Processamento de Malha Viária (OSMnx)
 
-Repositório complementar à tese de doutorado: *"Tessitura de uma arquitetura esparsa: localidades litorâneas enquanto economias de movimento"* (PPGAU/UFRN, 2025).
+Repositório complementar à tese de doutorado: *"Tessitura de uma arquitetura esparsa: localidades litorâneas enquanto economias de movimento"* (PPGAU/UFRN, 2025), financiada pela CAPES.
+
+>MARTINS, Maurício Pereira. Tessitura de uma arquitetura esparsa: localidades litorâneas enquanto economias de movimento. Orientadora: Dra. Edja Bezerra Faria Trigueiro. 2025. 273f. Tese (Doutorado em Arquitetura e Urbanismo) - Centro de Tecnologia, Universidade Federal do Rio Grande do Norte, Natal, 2025.
+
+https://repositorio.ufrn.br/handle/123456789/67269
 
 ## Descrição
 Este repositório contém os scripts em Python utilizados para capturar, filtrar e processar as malhas viárias de aproximadamente 25 municípios costeiros e do entorno da BR-101, entre Natal-RN e João Pessoa-PB.
